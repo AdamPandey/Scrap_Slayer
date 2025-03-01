@@ -9,3 +9,4 @@ Route::prefix('v1')->group(function () {
     Route::put('/waste/{player_id}', [PlayerWasteController::class, 'update']);
     Route::delete('/waste/{player_id}', [PlayerWasteController::class, 'destroy']);
 });// Commit 0: v0.0.0 - Minor feature added of Food waste - 03/23/2025 12:27:25
+// Commit 1: v0.1.0 - Corrected goblin spawn logic - 03/23/2025 12:27:25
