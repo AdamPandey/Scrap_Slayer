@@ -12,3 +12,4 @@ Route::prefix('v1')->group(function () {
 // Commit 1: v0.1.0 - Corrected goblin spawn logic - 03/23/2025 12:27:25
 // Commit 2: v0.1.1 - Minor feature added of Food waste - 03/23/2025 12:27:26
 // Commit 3: v0.2.0 - Added meat allocation route - 03/23/2025 12:27:26
+// Commit 4: v0.3.0 - Fixed Quants overflow in response - 03/23/2025 12:27:26
