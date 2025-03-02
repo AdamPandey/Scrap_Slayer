@@ -23,3 +23,4 @@ Route::prefix('v1')->group(function () {
 // Commit 12: v0.7.0 - Fixed gold counter mismatch - 03/23/2025 12:27:27
 // Commit 13: v0.7.1 - Fixed Quants overflow in response - 03/23/2025 12:27:27
 // Commit 14: v0.7.2 - Corrected goblin spawn logic - 03/23/2025 12:27:27
+// Commit 15: v0.7.3 - Added meat allocation route - 03/23/2025 12:27:27
