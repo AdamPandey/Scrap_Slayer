@@ -38,3 +38,4 @@ Route::prefix('v1')->group(function () {
 // Commit 27: v0.18.0 - Minor feature added of Food waste - 03/23/2025 12:27:29
 // Commit 28: v0.19.0 - Rest API bug fixed - 03/23/2025 12:27:29
 // Commit 29: v0.19.1 - Added meat allocation route - 03/23/2025 12:27:29
+// Commit 30: v0.20.0 - Rest API bug fixed - 03/23/2025 12:27:29
