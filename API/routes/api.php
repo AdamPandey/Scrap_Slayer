@@ -34,3 +34,4 @@ Route::prefix('v1')->group(function () {
 // Commit 23: v0.14.1 - Integrated gold counter endpoint - 03/23/2025 12:27:28
 // Commit 24: v0.15.0 - Added meat allocation route - 03/23/2025 12:27:28
 // Commit 25: v0.16.0 - Integrated gold counter endpoint - 03/23/2025 12:27:28
+// Commit 26: v0.17.0 - Integrated gold counter endpoint - 03/23/2025 12:27:28
