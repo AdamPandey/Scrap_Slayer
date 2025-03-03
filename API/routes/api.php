@@ -36,3 +36,4 @@ Route::prefix('v1')->group(function () {
 // Commit 25: v0.16.0 - Integrated gold counter endpoint - 03/23/2025 12:27:28
 // Commit 26: v0.17.0 - Integrated gold counter endpoint - 03/23/2025 12:27:28
 // Commit 27: v0.18.0 - Minor feature added of Food waste - 03/23/2025 12:27:29
+// Commit 28: v0.19.0 - Rest API bug fixed - 03/23/2025 12:27:29
