@@ -48,3 +48,4 @@ Route::prefix('v1')->group(function () {
 // Commit 37: v0.22.3 - Fixed gold counter mismatch - 03/23/2025 12:27:30
 // Commit 38: v0.22.4 - Minor feature added of Food waste - 03/23/2025 12:27:30
 // Commit 39: v0.23.0 - Corrected goblin spawn logic - 03/23/2025 12:27:30
+// Commit 40: v0.23.1 - Rest API bug fixed - 03/23/2025 12:27:30
