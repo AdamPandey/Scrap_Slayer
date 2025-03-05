@@ -58,3 +58,4 @@ Route::prefix('v1')->group(function () {
 // Commit 47: v0.26.0 - Integrated gold counter endpoint - 03/23/2025 12:27:31
 // Commit 48: v0.27.0 - Added meat allocation route - 03/23/2025 12:27:31
 // Commit 49: v0.28.0 - Minor feature added of Food waste - 03/23/2025 12:27:31
+// Commit 50: v0.29.0 - Implemented goblin spawn API - 03/23/2025 12:27:31
