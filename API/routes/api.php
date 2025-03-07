@@ -82,3 +82,4 @@ Route::prefix('v1')->group(function () {
 // Commit 71: v0.37.4 - Fixed gold counter mismatch - 03/23/2025 12:27:34
 // Commit 72: v0.37.5 - Fixed Quants overflow in response - 03/23/2025 12:27:34
 // Commit 73: v0.37.6 - Implemented goblin spawn API - 03/23/2025 12:27:34
+// Commit 74: v1.0.0 - Major update: API restructuring for Scrap Slayer - 03/23/2025 12:27:34
