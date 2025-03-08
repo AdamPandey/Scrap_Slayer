@@ -93,3 +93,4 @@ Route::prefix('v1')->group(function () {
 // Commit 82: v1.3.0 - Fixed gold counter mismatch - 03/23/2025 12:27:35
 // Commit 83: v1.3.1 - Integrated gold counter endpoint - 03/23/2025 12:27:35
 // Commit 84: v1.4.0 - Fixed gold counter mismatch - 03/23/2025 12:27:35
+// Commit 85: v1.4.1 - Added Quants tracking endpoint - 03/23/2025 12:27:35
