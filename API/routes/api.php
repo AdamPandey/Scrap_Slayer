@@ -111,3 +111,4 @@ Route::prefix('v1')->group(function () {
 // Commit 100: v1.12.1 - Implemented goblin spawn API - 03/23/2025 12:27:37
 // Commit 101: v1.13.0 - Integrated gold counter endpoint - 03/23/2025 12:27:37
 // Commit 102: v1.14.0 - Resolved meat allocation error - 03/23/2025 12:27:38
+// Commit 103: v1.14.1 - Added meat allocation route - 03/23/2025 12:27:38
