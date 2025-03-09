@@ -115,3 +115,4 @@ Route::prefix('v1')->group(function () {
 // Commit 104: v1.15.0 - Corrected goblin spawn logic - 03/23/2025 12:27:38
 // Commit 105: v1.15.1 - Rest API bug fixed - 03/23/2025 12:27:38
 // Commit 106: v1.15.2 - Resolved meat allocation error - 03/23/2025 12:27:38
+// Commit 107: v1.15.3 - Added meat allocation route - 03/23/2025 12:27:38
