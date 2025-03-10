@@ -122,3 +122,4 @@ Route::prefix('v1')->group(function () {
 // Commit 111: v1.17.1 - Resolved meat allocation error - 03/23/2025 12:27:39
 // Commit 112: v1.17.2 - Rest API bug fixed - 03/23/2025 12:27:39
 // Commit 113: v1.17.3 - Minor feature added of Food waste - 03/23/2025 12:27:39
+// Commit 114: v1.18.0 - Added meat allocation route - 03/23/2025 12:27:39
