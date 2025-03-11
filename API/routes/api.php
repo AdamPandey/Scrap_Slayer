@@ -134,3 +134,4 @@ Route::prefix('v1')->group(function () {
 // Commit 123: v1.22.1 - Rest API bug fixed - 03/23/2025 12:27:40
 // Commit 124: v1.22.2 - Added meat allocation route - 03/23/2025 12:27:40
 // Commit 125: v1.23.0 - Fixed Quants overflow in response - 03/23/2025 12:27:40
+// Commit 126: v1.23.1 - Added meat allocation route - 03/23/2025 12:27:40
