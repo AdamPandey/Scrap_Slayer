@@ -139,3 +139,4 @@ Route::prefix('v1')->group(function () {
 // Commit 128: v1.24.1 - Implemented goblin spawn API - 03/23/2025 12:27:41
 // Commit 129: v1.25.0 - Implemented goblin spawn API - 03/23/2025 12:27:41
 // Commit 130: v1.26.0 - Fixed gold counter mismatch - 03/23/2025 12:27:41
+// Commit 131: v1.26.1 - Corrected goblin spawn logic - 03/23/2025 12:27:41
