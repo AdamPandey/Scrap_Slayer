@@ -147,3 +147,4 @@ Route::prefix('v1')->group(function () {
 // Commit 136: v1.28.0 - Rest API bug fixed - 03/23/2025 12:27:42
 // Commit 137: v1.28.1 - Fixed Quants overflow in response - 03/23/2025 12:27:42
 // Commit 138: v1.28.2 - Implemented goblin spawn API - 03/23/2025 12:27:42
+// Commit 139: v1.29.0 - Fixed Quants overflow in response - 03/23/2025 12:27:42
