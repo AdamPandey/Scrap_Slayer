@@ -152,3 +152,4 @@ Route::prefix('v1')->group(function () {
 // Commit 141: v1.30.0 - Fixed gold counter mismatch - 03/23/2025 12:27:42
 // Commit 142: v1.30.1 - Fixed gold counter mismatch - 03/23/2025 12:27:42
 // Commit 143: v1.30.2 - Minor feature added of Food waste - 03/23/2025 12:27:42
+// Commit 144: v1.31.0 - Added meat allocation route - 03/23/2025 12:27:43
