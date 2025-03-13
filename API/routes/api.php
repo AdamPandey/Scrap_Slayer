@@ -157,3 +157,4 @@ Route::prefix('v1')->group(function () {
 // Commit 146: v1.32.1 - Resolved meat allocation error - 03/23/2025 12:27:43
 // Commit 147: v1.32.2 - Rest API bug fixed - 03/23/2025 12:27:43
 // Commit 148: v1.32.3 - Fixed gold counter mismatch - 03/23/2025 12:27:43
+// Commit 149: v2.0.0 - Major update: API ready for Scrap Slayer integration - 03/23/2025 12:27:43
