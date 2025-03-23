@@ -5,3 +5,4 @@
 // Commit 4: v2.2.2 - Enhanced gold counter UI - 03/23/2025 12:57:11
 // Commit 5: v2.3.0 - Enhanced gold counter UI - 03/23/2025 12:57:11
 // Commit 6: v2.4.0 - Corrected Quants calculation error - 03/23/2025 12:57:12
+// Commit 7: v2.4.1 - Resolved goblin collision issue - 03/23/2025 12:57:12
