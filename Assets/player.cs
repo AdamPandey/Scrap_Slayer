@@ -14,3 +14,4 @@
 // Commit 13: v2.5.2 - Added player movement mechanics - 03/23/2025 12:57:12
 // Commit 14: v2.6.0 - Fixed player movement bug - 03/23/2025 12:57:12
 // Commit 15: v2.6.1 - Resolved goblin collision issue - 03/23/2025 12:57:13
+// Commit 16: v2.6.2 - Enhanced gold counter UI - 03/23/2025 12:57:13
