@@ -12,3 +12,4 @@
 // Commit 11: v2.5.0 - Corrected Quants calculation error - 03/23/2025 12:57:12
 // Commit 12: v2.5.1 - Adjusted gold counter display - 03/23/2025 12:57:12
 // Commit 13: v2.5.2 - Added player movement mechanics - 03/23/2025 12:57:12
+// Commit 14: v2.6.0 - Fixed player movement bug - 03/23/2025 12:57:12
