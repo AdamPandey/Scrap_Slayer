@@ -4,3 +4,4 @@
 // Commit 3: v2.2.1 - Adjusted gold counter display - 03/23/2025 12:57:11
 // Commit 4: v2.2.2 - Enhanced gold counter UI - 03/23/2025 12:57:11
 // Commit 5: v2.3.0 - Enhanced gold counter UI - 03/23/2025 12:57:11
+// Commit 6: v2.4.0 - Corrected Quants calculation error - 03/23/2025 12:57:12
