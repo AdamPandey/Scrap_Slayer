@@ -10,3 +10,4 @@
 // Commit 9: v2.4.3 - Corrected Quants calculation error - 03/23/2025 12:57:12
 // Commit 10: v2.4.4 - Implemented Quants collection system - 03/23/2025 12:57:12
 // Commit 11: v2.5.0 - Corrected Quants calculation error - 03/23/2025 12:57:12
+// Commit 12: v2.5.1 - Adjusted gold counter display - 03/23/2025 12:57:12
