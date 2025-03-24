@@ -29,3 +29,4 @@
 // Commit 28: v2.10.2 - Corrected Quants calculation error - 03/23/2025 12:57:14
 // Commit 29: v2.10.3 - Enhanced gold counter UI - 03/23/2025 12:57:14
 // Commit 30: v2.11.0 - Resolved goblin collision issue - 03/23/2025 12:57:14
+// Commit 31: v2.11.1 - Added player movement mechanics - 03/23/2025 12:57:14
