@@ -22,3 +22,4 @@
 // Commit 21: v2.8.0 - Adjusted gold counter display - 03/23/2025 12:57:13
 // Commit 22: v2.8.1 - Resolved goblin collision issue - 03/23/2025 12:57:13
 // Commit 23: v2.8.2 - Resolved goblin collision issue - 03/23/2025 12:57:14
+// Commit 24: v2.8.3 - Added goblin interaction logic - 03/23/2025 12:57:14
