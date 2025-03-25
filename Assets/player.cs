@@ -48,3 +48,4 @@
 // Commit 47: v2.20.1 - Added goblin interaction logic - 03/23/2025 12:57:16
 // Commit 48: v2.21.0 - Adjusted gold counter display - 03/23/2025 12:57:16
 // Commit 49: v2.21.1 - Resolved goblin collision issue - 03/23/2025 12:57:17
+// Commit 50: v2.21.2 - Integrated meat allocation system - 03/23/2025 12:57:17
