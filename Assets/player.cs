@@ -38,3 +38,4 @@
 // Commit 37: v2.15.0 - Added goblin interaction logic - 03/23/2025 12:57:15
 // Commit 38: v2.16.0 - Added player movement mechanics - 03/23/2025 12:57:15
 // Commit 39: v2.17.0 - Added goblin interaction logic - 03/23/2025 12:57:15
+// Commit 40: v2.18.0 - Enhanced gold counter UI - 03/23/2025 12:57:16
