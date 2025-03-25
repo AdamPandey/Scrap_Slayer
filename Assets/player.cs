@@ -32,3 +32,4 @@
 // Commit 31: v2.11.1 - Added player movement mechanics - 03/23/2025 12:57:14
 // Commit 32: v2.12.0 - Integrated meat allocation system - 03/23/2025 12:57:15
 // Commit 33: v2.13.0 - Enhanced gold counter UI - 03/23/2025 12:57:15
+// Commit 34: v2.14.0 - Corrected Quants calculation error - 03/23/2025 12:57:15
