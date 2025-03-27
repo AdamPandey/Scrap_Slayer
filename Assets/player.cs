@@ -76,3 +76,4 @@
 // Commit 75: v3.0.0 - Enhanced gold counter UI - 03/23/2025 12:57:20
 // Commit 76: v3.1.0 - Added goblin interaction logic - 03/23/2025 12:57:20
 // Commit 77: v3.2.0 - Adjusted gold counter display - 03/23/2025 12:57:20
+// Commit 78: v3.2.1 - Implemented Quants collection system - 03/23/2025 12:57:20
