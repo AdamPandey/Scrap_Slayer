@@ -81,3 +81,4 @@
 // Commit 80: v3.3.1 - Added player movement mechanics - 03/23/2025 12:57:20
 // Commit 81: v3.4.0 - Corrected Quants calculation error - 03/23/2025 12:57:20
 // Commit 82: v3.4.1 - Added player movement mechanics - 03/23/2025 12:57:20
+// Commit 83: v3.5.0 - Fixed player movement bug - 03/23/2025 12:57:20
