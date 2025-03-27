@@ -79,3 +79,4 @@
 // Commit 78: v3.2.1 - Implemented Quants collection system - 03/23/2025 12:57:20
 // Commit 79: v3.3.0 - Fixed meat allocation glitch - 03/23/2025 12:57:20
 // Commit 80: v3.3.1 - Added player movement mechanics - 03/23/2025 12:57:20
+// Commit 81: v3.4.0 - Corrected Quants calculation error - 03/23/2025 12:57:20
