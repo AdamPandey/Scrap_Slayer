@@ -92,3 +92,4 @@
 // Commit 91: v3.7.2 - Resolved goblin collision issue - 03/23/2025 12:57:21
 // Commit 92: v3.7.3 - Fixed player movement bug - 03/23/2025 12:57:22
 // Commit 93: v3.7.4 - Adjusted gold counter display - 03/23/2025 12:57:22
+// Commit 94: v3.7.5 - Enhanced gold counter UI - 03/23/2025 12:57:22
