@@ -87,3 +87,4 @@
 // Commit 86: v3.5.3 - Implemented Quants collection system - 03/23/2025 12:57:21
 // Commit 87: v3.6.0 - Fixed player movement bug - 03/23/2025 12:57:21
 // Commit 88: v3.6.1 - Implemented Quants collection system - 03/23/2025 12:57:21
+// Commit 89: v3.7.0 - Resolved goblin collision issue - 03/23/2025 12:57:21
