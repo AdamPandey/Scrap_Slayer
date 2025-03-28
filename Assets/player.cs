@@ -83,3 +83,4 @@
 // Commit 82: v3.4.1 - Added player movement mechanics - 03/23/2025 12:57:20
 // Commit 83: v3.5.0 - Fixed player movement bug - 03/23/2025 12:57:20
 // Commit 84: v3.5.1 - Fixed player movement bug - 03/23/2025 12:57:21
+// Commit 85: v3.5.2 - Adjusted gold counter display - 03/23/2025 12:57:21
