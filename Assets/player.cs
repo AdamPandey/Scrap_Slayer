@@ -104,3 +104,4 @@
 // Commit 103: v3.11.2 - Integrated meat allocation system - 03/23/2025 12:57:23
 // Commit 104: v3.12.0 - Implemented Quants collection system - 03/23/2025 12:57:23
 // Commit 105: v3.13.0 - Added goblin interaction logic - 03/23/2025 12:57:23
+// Commit 106: v3.14.0 - Integrated meat allocation system - 03/23/2025 12:57:23
