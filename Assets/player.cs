@@ -124,3 +124,4 @@
 // Commit 123: v3.24.2 - Added goblin interaction logic - 03/23/2025 12:57:25
 // Commit 124: v3.25.0 - Added player movement mechanics - 03/23/2025 12:57:25
 // Commit 125: v3.26.0 - Adjusted gold counter display - 03/23/2025 12:57:25
+// Commit 126: v3.26.1 - Integrated meat allocation system - 03/23/2025 12:57:25
