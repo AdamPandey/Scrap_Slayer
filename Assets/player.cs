@@ -147,3 +147,4 @@
 // Commit 146: v3.35.0 - Adjusted gold counter display - 03/23/2025 12:57:28
 // Commit 147: v3.35.1 - Adjusted gold counter display - 03/23/2025 12:57:28
 // Commit 148: v3.35.2 - Implemented Quants collection system - 03/23/2025 12:57:28
+// Commit 149: v4.0.0 - Major update: Unity integration complete - 03/23/2025 12:57:28
